@@ -8,13 +8,13 @@ tags: [Blog, Math, Notebook]
 author: Barry # Add name author (optional)
 ---
 
-##Functions
+## Functions
 Functions are fundamental to the study of calculus.
 This Chapter reviewd what the functions are and how they classifed, trandformed and combined, and trigonometric functions are also included.
 This contains inverse, exponential and logarithmic functions.Besides, the real number system, Cartesian coordinates, straight lines, circles, parabolas, and ellipses are reviewed in appendics.
 
 ### Functions; Domain and Range
-#### basic conecptions
+
 The first sample of function:
 $$y=f(x) $$
   ("$y$ equals $f$ of $x$" )
