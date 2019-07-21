@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  Notebook for Thomas' Calculus
+title:  Notes of Chapter One of Thomas' Calculus
 date:   2019-07-21 13:32:20 +0300
-description: Writing down the important points of this textbook of Thomas' Calculus, sas Brief history of that # Add post description (optional)
+description: The abstract of Chapter One of Thomas' Calculus # Add post description (optional)
 img: post-1.jpg # Add image post (optional)
-tags: [Blog, Math, Notebook]
+tags: [Blog, Math, Thomas' Calculus]
 author: Barry # Add name author (optional)
 ---
 
 ## Functions
 Functions are fundamental to the study of calculus.
 This Chapter reviewd what the functions are and how they classifed, trandformed and combined, and trigonometric functions are also included.
-This contains inverse, exponential and logarithmic functions.Besides, the real number system, Cartesian coordinates, straight lines, circles, parabolas, and ellipses are reviewed in appendics.
+This contains inverse, exponential and logarithmic functions. Besides, the real number system, Cartesian coordinates, straight lines, circles, parabolas, and ellipses are reviewed in appendics.
 
 ### Functions; Domain and Range
 

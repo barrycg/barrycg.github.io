@@ -2,9 +2,9 @@
 layout: post
 title: Trivals for ML
 date:   2019-07-21 13:32:20 +0300
-description:  the difference between regreession and classification # Add post description (optional)
+description:  The difference between regreession and classification # Add post description (optional)
 img: post-1.jpg # Add image post (optional)
-tags: [Blog, ML, Trival]
+tags: [Blog, ML, Trivals ]
 author: Barry # Add name author (optional)
 ---
 
